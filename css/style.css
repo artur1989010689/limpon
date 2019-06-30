@@ -1786,8 +1786,11 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0a2090', end
     .company-text {
         font-size: 13px;
     }
-    .company-text a {
-        font-size: 14px;
+    .content-app .title-h2 {
+        font-size: 36px;
+    }
+    .list-stat>li {
+        margin-right: 8px;
     }
     
 }
